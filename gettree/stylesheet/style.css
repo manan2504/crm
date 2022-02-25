@@ -1186,8 +1186,9 @@ header.fixed-header {
 }
 
 #header .header-wrap {
-    padding: 0 2.4% 0 2.8%;
-    height: 101px;
+    padding: 2 2.4% 0 2.8%;
+    height: 100px;
+    width: 100px;
     background-color: var(--primary-color3);
 }
 
@@ -1200,6 +1201,7 @@ header.fixed-header {
 
 #header .logo-header {
     line-height: 100px;
+
 }
 
 #header .site-header-right {
